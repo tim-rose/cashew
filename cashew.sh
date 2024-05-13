@@ -10,7 +10,7 @@
 . midden
 require log
 
-VERSION=unknown
+version="VERSION"
 config=cache.conf
 
 main()
